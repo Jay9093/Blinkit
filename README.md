@@ -1,4 +1,4 @@
-### Blinkit Data preprocessing and cleaning
+### Blinkit Data Analysis
 1. Dataset collected
 2. Processing the dataset:
 - ✅ cleaning the dataset
